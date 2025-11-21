@@ -16,7 +16,18 @@
 //     </div>
 //   );
 // }
-import VideoPlayer from "@/components/VideoPlayer";
+// import VideoPlayer from "@/components/VideoPlayer";
+
+// export default function Home() {
+//   return (
+//     <main>
+//       <VideoPlayer />
+//     </main>
+//   );
+// }
+
+
+import VideoPlayer from "@/components/VideoPlayer2";
 
 export default function Home() {
   return (
